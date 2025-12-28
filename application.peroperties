@@ -1,0 +1,5 @@
+//In application.properties
+
+reqPayEx-core=100
+reqPayEx-max=200
+reqPayEx-capacity=1000
